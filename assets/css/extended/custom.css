@@ -15,12 +15,18 @@
 body {
   background-color: var(--bg-warm);
   color: var(--text-primary);
+  text-align: justify;
 }
 
 /* Header */
 .nav {
   background-color: var(--bg-warm);
   border-bottom: 1px solid var(--border-warm);
+}
+
+/* Menu di navigazione — caratteri più grandi */
+#menu a {
+  font-size: 1.1rem;
 }
 
 /* Link */
@@ -139,7 +145,11 @@ h1, h2, h3 {
 @media (max-width: 600px) {
   .hero-home {
     flex-direction: column;
-    text-align: center;
+    align-items: center;
+  }
+
+  .hero-text {
+    text-align: left;
   }
 }
 

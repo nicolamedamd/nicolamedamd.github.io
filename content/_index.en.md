@@ -41,6 +41,9 @@ Phone: 049 871 6699
 **Thiene (VI)** — Centro Medico Bios (Via Monte Pasubio 212/e - Zanè)<br>
 Phone: 0445 314741
 
+<a id="zl-url" class="zl-url" href="https://www.miodottore.it/nicola-meda/psichiatra/zane" rel="nofollow" data-zlw-doctor="nicola-meda" data-zlw-type="big" data-zlw-opinion="false" data-zlw-hide-branding="true" data-zlw-saas-only="true" data-zlw-a11y-title="Widget di prenotazione visite mediche">Prenota una visita</a>
+<script>!function($_x,_s,id){var js,fjs=$_x.getElementsByTagName(_s)[0];if(!$_x.getElementById(id)){js = $_x.createElement(_s);js.id = id;js.src = "//platform.docplanner.com/js/widget.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","zl-widget-s");</script>
+
 ## Important notice
 
 This website is for informational and educational purposes only. The information provided here does not replace medical advice. If you need immediate help, please contact your doctor or the nearest emergency department.

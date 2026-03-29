@@ -6,7 +6,7 @@ description: "Sito professionale di psichiatria e salute mentale — informazion
 <div class="hero-home">
   <img src="/images/nicolameda.jpg" alt="Dott. Nicola Meda" class="foto-profilo">
   <div class="hero-text">
-    <h2>Benvenuto</h2>
+    <h2>Ti do il benvenuto</h2>
     <p>Sono il Dott. Nicola Meda, medico psichiatra e ricercatore in neuroscienze presso l'Università di Padova.</p>
     <p>Questo sito nasce con un obiettivo semplice: offrirti informazioni chiare, accessibili e scientificamente fondate sulla salute mentale. Che tu stia cercando risposte per te stesso o per una persona cara, qui troverai contenuti pensati per aiutarti a orientarti.</p>
   </div>
@@ -40,6 +40,9 @@ Telefono: 049 871 6699
 
 **Thiene (VI)** — Centro Medico Bios (Via Monte Pasubio 212/e - Zanè)<br>
 Telefono: 0445 314741
+
+<a id="zl-url" class="zl-url" href="https://www.miodottore.it/nicola-meda/psichiatra/zane" rel="nofollow" data-zlw-doctor="nicola-meda" data-zlw-type="big" data-zlw-opinion="false" data-zlw-hide-branding="true" data-zlw-saas-only="true" data-zlw-a11y-title="Widget di prenotazione visite mediche">Prenota una visita</a>
+<script>!function($_x,_s,id){var js,fjs=$_x.getElementsByTagName(_s)[0];if(!$_x.getElementById(id)){js = $_x.createElement(_s);js.id = id;js.src = "//platform.docplanner.com/js/widget.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","zl-widget-s");</script>
 
 ## Nota importante
 
