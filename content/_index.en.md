@@ -55,7 +55,7 @@ If you are struggling, have thoughts of suicide, or have survived the suicide of
 
 - **Telefono Amico**: 02 2327 2327 — every day from 9am to midnight
 - **Numero Verde Veneto**: 800 33 43 43 — 24 hours a day, 7 days a week
-- **De Leo Fund ONLUS**: 800 168 678 — Monday to Friday, 9am–1pm and 3pm–7pm<br>
+- **De Leo Fund ONLUS**: 800 168 678 — Mon-Fri, 9am–1pm and 3pm–7pm<br>
   (specifically for people experiencing a traumatic bereavement)
 
 In case of emergency, call **112** or go to the nearest Emergency Department.
