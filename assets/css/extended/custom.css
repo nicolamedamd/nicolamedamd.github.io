@@ -38,11 +38,17 @@ a:hover {
   color: var(--accent-color);
 }
 
-/* Titoli */
+/* Titoli — allineati a sinistra per evitare spazi brutti su mobile */
 .post-title,
 .entry-header h1,
 h1, h2, h3 {
   color: var(--text-primary);
+  text-align: left;
+}
+
+/* Titolo sito nel header — non giustificato */
+.logo a {
+  text-align: left;
 }
 
 /* Meta info (data, tempo di lettura) */
@@ -149,7 +155,7 @@ h1, h2, h3 {
   }
 
   .hero-text {
-    text-align: left;
+    text-align: justify;
   }
 }
 

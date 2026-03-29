@@ -19,7 +19,7 @@ buildFuture = false
     languageName = "Italiano"
     languageCode = "it"
     weight = 1
-    title = "Dott. Nicola Meda Medico\u00A0Psichiatra"
+    title = "Dott. Nicola Meda - Psichiatra"
 
     [languages.it.params]
       description = "Sito professionale di psichiatria e salute mentale — informazioni per pazienti e familiari"
