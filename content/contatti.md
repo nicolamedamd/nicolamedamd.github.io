@@ -12,9 +12,9 @@ layout: "single"
 Indirizzo: <!-- da inserire -->
 Padova, Italia
 
-**Email**: <!-- da inserire -->
+**CostruttivaMente**: 049 871 66 99
 
-**Telefono**: <!-- da inserire -->
+**Centro Medico Bios**: 0445 314741
 
 ## Prenotare una visita
 

@@ -86,16 +86,9 @@ buildFuture = false
   ShowToc = true
   displayFullLangName = true
 
-  [params.homeInfoParams]
-    Title = "Benvenuto"
-    Content = "Questo sito offre informazioni affidabili e accessibili sulla salute mentale, scritte da uno psichiatra e ricercatore in neuroscienze."
-
   [params.profileMode]
     enabled = false
 
-  [[params.socialIcons]]
-    name = "email"
-    url = "mailto:contatto@example.com"
 
 # ── Markup ──────────────────────────────────────────────
 

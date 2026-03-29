@@ -3,6 +3,8 @@ title: "Dott. Nicola Meda — Medico Psichiatra"
 description: "Sito professionale di psichiatria e salute mentale — informazioni affidabili per pazienti e familiari"
 ---
 
+![Dott. Nicola Meda](/images/nicolameda.jpg)
+
 ## Benvenuto
 
 Sono il Dott. Nicola Meda, medico psichiatra e ricercatore in neuroscienze presso l'Università di Padova.
@@ -14,5 +16,3 @@ Questo sito nasce con un obiettivo semplice: offrirti informazioni chiare, acces
 - **Blog**: articoli divulgativi su disturbo bipolare, prevenzione del suicidio e salute mentale generale
 - **Chi Sono**: il mio percorso professionale e il mio approccio alla cura
 - **Contatti**: come raggiungermi per una consulenza
-
-La salute mentale riguarda tutti noi. Prendersi cura della mente è un atto di coraggio, non di debolezza.

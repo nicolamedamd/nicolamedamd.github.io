@@ -4,26 +4,12 @@ description: "Dr. Nicola Meda — Psychiatrist, psychotherapist, and neuroscienc
 layout: "single"
 ---
 
-## About me
+I'm Nicola Meda, a psychiatrist and neuroscience PhD candidate at the University of Padua, Italy. I deal with all the main mental health problems, such as anxiety and insomnia, with a particular focus on bipolar disorders, depression, obsessive-compulsive disorder, and suicide risk.
 
-I'm Nicola Meda, a psychiatrist and neuroscience PhD candidate at the University of Padua, Italy. I work with the full range of mental health conditions — from anxiety to insomnia — with a particular focus on bipolar disorders, depression, obsessive-compulsive disorder, and suicide risk.
+My training is both clinical and research-based. In addition to my specialisation in psychiatry, I trained in cognitive-behavioural therapy and Acceptance and Commitment Therapy. I have published over twenty studies in international scientific journals, I coordinate multicentre research projects on suicide prevention, and I am a member of the Suicide Prevention Task Force of the International Society for Bipolar Disorders.
 
-My training spans both clinical practice and research. In addition to my specialisation in psychiatry, I trained in cognitive-behavioural therapy (CBT) and Acceptance and Commitment Therapy (ACT), an approach that helps people build a meaningful life even in the presence of emotional difficulties.
+In practice, a significant part of my work involves testing whether what I study in research actually works in everyday life.
 
-## How I work
-
-The care I offer is collaborative. Rather than simply prescribing a treatment, I explain the diagnosis, present the available therapeutic options along with their efficacy and safety data, and work with you to define a clear path towards better mental and physical well-being.
+The care I offer is collaborative: I explain the diagnosis, present the available therapeutic options along with their efficacy and safety data, and I am transparent in defining a therapeutic path that leads to greater mental and physical well-being.
 
 I believe every patient has the right to understand their diagnosis, the rationale behind the proposed treatment, and to receive honest answers — especially when those answers are not easy to give.
-
-## Research
-
-I have published over twenty studies in international peer-reviewed journals and coordinate multicentre research projects on suicide prevention. I am a member of the Suicide Prevention Task Force of the International Society for Bipolar Disorders (ISBD).
-
-A significant part of my work involves testing whether what I study in research actually works in everyday clinical practice. This is why research and patient care are never separate for me: what I learn from studies informs how I treat, and what I observe in my patients shapes the questions I pursue in research.
-
-## Why this website
-
-Too often, people living with a mental health condition — or those close to them — struggle to find reliable, understandable, and non-alarmist information. This website was created to bridge that gap: to offer you clear content, grounded in scientific evidence, written with you in mind — not with an audience of specialists.
-
-Information is the first step towards well-being. Taking care of your mind is an act of courage, not weakness.

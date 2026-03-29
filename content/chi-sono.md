@@ -4,26 +4,12 @@ description: "Dott. Nicola Meda — Psichiatra, psicoterapeuta e dottorando in n
 layout: "single"
 ---
 
-## Chi sono
+Sono Nicola Meda, psichiatra e dottorando in neuroscienze all'Università di Padova. Mi occupo di tutti i principali problemi di salute mentale, come ansia e insonnia, e in particolare di disturbi bipolari, depressione, disturbo ossessivo-compulsivo e rischio suicidario.
 
-Sono Nicola Meda, psichiatra e dottorando in neuroscienze all'Università di Padova. Mi occupo dei principali problemi di salute mentale — dall'ansia all'insonnia — con un'attenzione particolare ai disturbi bipolari, alla depressione, al disturbo ossessivo-compulsivo e al rischio suicidario.
+La mia formazione è sia clinica che di ricerca. Oltre alla specializzazione in psichiatria, mi sono formato in psicoterapia cognitivo-comportamentale e in Acceptance and Commitment Therapy. Ho pubblicato oltre venti studi su riviste scientifiche internazionali, coordino progetti di ricerca multicentrici sulla prevenzione del suicidio e faccio parte della Suicide Prevention Task Force dell'International Society for Bipolar Disorders.
 
-La mia formazione è sia clinica che di ricerca: oltre alla specializzazione in psichiatria, mi sono formato in psicoterapia cognitivo-comportamentale e in Acceptance and Commitment Therapy (ACT), un approccio che aiuta a costruire una vita significativa anche in presenza di difficoltà emotive.
+In pratica, una parte consistente del mio lavoro consiste nel verificare se quello su cui faccio ricerca funziona davvero nella realtà di tutti i giorni.
 
-## Come lavoro
+Il percorso di cura che propongo è collaborativo: spiego la diagnosi, presento le opzioni terapeutiche con i relativi dati di efficacia e sicurezza, e sono trasparente nella definizione di un percorso terapeutico che porti a un maggior benessere mentale e fisico.
 
-Il percorso di cura che propongo è collaborativo. Significa che non mi limito a prescrivere un trattamento: ti spiego la diagnosi, ti presento le opzioni terapeutiche con i relativi dati di efficacia e sicurezza, e sono trasparente nel definire insieme a te un percorso che porti a un maggior benessere mentale e fisico.
-
-Credo che ogni paziente abbia il diritto di capire quale sia la propria diagnosi, il razionale del trattamento proposto, e di ricevere risposte oneste — soprattutto quando queste non sono semplici da dare.
-
-## La ricerca
-
-Ho pubblicato oltre venti studi su riviste scientifiche internazionali e coordino progetti di ricerca multicentrici sulla prevenzione del suicidio. Faccio parte della Suicide Prevention Task Force dell'International Society for Bipolar Disorders (ISBD).
-
-Una parte consistente del mio lavoro consiste nel verificare se quello su cui faccio ricerca funziona davvero nella realtà di tutti i giorni. Per questo ricerca e clinica, nel mio caso, non sono mai separate: ciò che imparo dagli studi informa il modo in cui curo, e ciò che osservo nei pazienti guida le domande che pongo nella ricerca.
-
-## Perché questo sito
-
-Troppo spesso chi soffre di un disturbo mentale — o chi gli sta accanto — fatica a trovare informazioni affidabili, comprensibili e non allarmistiche. Questo sito nasce per colmare quel vuoto: offrirti contenuti chiari, fondati sulle evidenze scientifiche e scritti pensando a te, non a un pubblico di specialisti.
-
-L'informazione è il primo passo verso il benessere. Prendersi cura della propria mente è un atto di coraggio, non di debolezza.
+Credo che ogni paziente abbia il diritto di capire quale sia la diagnosi, il razionale del trattamento proposto, e di ricevere risposte oneste soprattutto quando queste non sono semplici da dare.
