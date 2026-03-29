@@ -1,0 +1,24 @@
+- id: prev_page
+  translation: "Pagina precedente"
+- id: next_page
+  translation: "Pagina successiva"
+- id: read_time
+  translation:
+    one: "1 minuto di lettura"
+    other: "{{ .Count }} minuti di lettura"
+- id: toc
+  translation: "Indice"
+- id: translations
+  translation: "Traduzioni"
+- id: home
+  translation: "Home"
+- id: posts
+  translation: "Articoli"
+- id: read_more
+  translation: "Continua a leggere"
+- id: share_on
+  translation: "Condividi su"
+- id: search_placeholder
+  translation: "Cerca..."
+- id: no_results
+  translation: "Nessun risultato trovato"

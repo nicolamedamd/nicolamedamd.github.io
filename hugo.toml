@@ -1,0 +1,110 @@
+baseURL = "https://nicolameda.com/"
+theme = "PaperMod"
+paginate = 10
+defaultContentLanguage = "it"
+defaultContentLanguageInSubdir = false
+
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+
+[minify]
+  disableXML = true
+
+# ── Lingue ──────────────────────────────────────────────
+
+[languages]
+
+  [languages.it]
+    languageName = "Italiano"
+    languageCode = "it"
+    weight = 1
+    title = "Dott. Nicola Meda — Medico Psichiatra"
+
+    [languages.it.params]
+      description = "Sito professionale di psichiatria e salute mentale — informazioni per pazienti e familiari"
+      author = "Dott. Nicola Meda"
+
+    [[languages.it.menu.main]]
+      name = "Home"
+      url = "/"
+      weight = 1
+    [[languages.it.menu.main]]
+      name = "Blog"
+      url = "/blog/"
+      weight = 2
+    [[languages.it.menu.main]]
+      name = "Chi Sono"
+      url = "/chi-sono/"
+      weight = 3
+    [[languages.it.menu.main]]
+      name = "Contatti"
+      url = "/contatti/"
+      weight = 4
+
+  [languages.en]
+    languageName = "English"
+    languageCode = "en"
+    weight = 2
+    title = "Dr. Nicola Meda — Psychiatrist"
+
+    [languages.en.params]
+      description = "Professional website on psychiatry and mental health — information for patients and families"
+      author = "Dr. Nicola Meda"
+
+    [[languages.en.menu.main]]
+      name = "Home"
+      url = "/en/"
+      weight = 1
+    [[languages.en.menu.main]]
+      name = "Blog"
+      url = "/en/blog/"
+      weight = 2
+    [[languages.en.menu.main]]
+      name = "About Me"
+      url = "/en/chi-sono/"
+      weight = 3
+    [[languages.en.menu.main]]
+      name = "Contact"
+      url = "/en/contatti/"
+      weight = 4
+
+# ── Parametri del tema PaperMod ─────────────────────────
+
+[params]
+  env = "production"
+  defaultTheme = "light"
+  disableThemeToggle = true
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowRssButtonInSectionTermList = false
+  ShowAllPagesInArchive = false
+  ShowPageNums = true
+  ShowToc = true
+  displayFullLangName = true
+
+  [params.homeInfoParams]
+    Title = "Benvenuto"
+    Content = "Questo sito offre informazioni affidabili e accessibili sulla salute mentale, scritte da uno psichiatra e ricercatore in neuroscienze."
+
+  [params.profileMode]
+    enabled = false
+
+  [[params.socialIcons]]
+    name = "email"
+    url = "mailto:contatto@example.com"
+
+# ── Markup ──────────────────────────────────────────────
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+# ── Output ──────────────────────────────────────────────
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]

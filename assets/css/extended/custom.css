@@ -1,0 +1,120 @@
+/* ── Palette calda e accogliente per sito medico ──────────── */
+
+:root {
+  --primary-color: #B85C38;      /* terracotta */
+  --secondary-color: #E0A96D;    /* ambra chiara */
+  --accent-color: #C2703E;       /* arancione caldo */
+  --bg-warm: #FDF8F3;            /* avorio caldo */
+  --bg-warm-secondary: #F5EDE4;  /* avorio scuro */
+  --text-primary: #2C2C2C;       /* grigio scuro */
+  --text-secondary: #5A5A5A;     /* grigio medio */
+  --border-warm: #E8DDD2;        /* bordo caldo */
+}
+
+/* Sfondo generale */
+body {
+  background-color: var(--bg-warm);
+  color: var(--text-primary);
+}
+
+/* Header */
+.nav {
+  background-color: var(--bg-warm);
+  border-bottom: 1px solid var(--border-warm);
+}
+
+/* Link */
+a {
+  color: var(--primary-color);
+}
+
+a:hover {
+  color: var(--accent-color);
+}
+
+/* Titoli */
+.post-title,
+.entry-header h1,
+h1, h2, h3 {
+  color: var(--text-primary);
+}
+
+/* Meta info (data, tempo di lettura) */
+.post-meta {
+  color: var(--text-secondary);
+}
+
+/* Card dei post nel listing */
+.post-entry {
+  background-color: var(--bg-warm);
+  border: 1px solid var(--border-warm);
+  border-radius: 8px;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.post-entry:hover {
+  border-color: var(--secondary-color);
+  box-shadow: 0 2px 12px rgba(184, 92, 56, 0.08);
+}
+
+/* Breadcrumbs */
+.breadcrumbs a {
+  color: var(--primary-color);
+}
+
+/* Paginazione */
+.pagination a {
+  color: var(--primary-color);
+}
+
+/* Footer */
+.footer {
+  border-top: 1px solid var(--border-warm);
+  color: var(--text-secondary);
+}
+
+/* Selettore lingua */
+.lang-switch a {
+  color: var(--primary-color);
+  font-weight: 500;
+}
+
+/* Indice (TOC) */
+.toc {
+  background-color: var(--bg-warm-secondary);
+  border: 1px solid var(--border-warm);
+  border-radius: 8px;
+  padding: 1rem;
+}
+
+/* Box risorse (hr + bold) — stile caldo */
+.post-content hr {
+  border-color: var(--border-warm);
+}
+
+/* Tag e categorie */
+.post-tags a {
+  background-color: var(--bg-warm-secondary);
+  color: var(--primary-color);
+  border: 1px solid var(--border-warm);
+  border-radius: 4px;
+}
+
+.post-tags a:hover {
+  background-color: var(--secondary-color);
+  color: white;
+  border-color: var(--secondary-color);
+}
+
+/* Scrollbar custom (webkit) */
+::-webkit-scrollbar-thumb {
+  background-color: var(--secondary-color);
+  border-radius: 4px;
+}
+
+/* Home info box */
+.first-entry {
+  background-color: var(--bg-warm-secondary);
+  border: 1px solid var(--border-warm);
+  border-radius: 8px;
+}
