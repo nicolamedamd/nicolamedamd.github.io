@@ -112,6 +112,60 @@ h1, h2, h3 {
   border-radius: 4px;
 }
 
+/* Hero homepage: foto a sinistra, testo a destra */
+.hero-home {
+  display: flex;
+  align-items: flex-start;
+  gap: 2rem;
+  margin-bottom: 2rem;
+}
+
+.foto-profilo {
+  width: 180px;
+  height: 180px;
+  min-width: 180px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid var(--border-warm);
+  position: relative;
+  top: -7px;
+}
+
+.hero-text h2 {
+  margin-top: 0;
+}
+
+/* Su mobile: colonna singola, foto centrata sopra il testo */
+@media (max-width: 600px) {
+  .hero-home {
+    flex-direction: column;
+    text-align: center;
+  }
+}
+
+/* Box "Hai bisogno di aiuto ora?" */
+.help-box {
+  background-color: var(--bg-warm-secondary);
+  border: 1px solid var(--border-warm);
+  border-left: 4px solid var(--primary-color);
+  border-radius: 0 8px 8px 0;
+  padding: 1.5rem 1.8rem;
+  margin: 2rem 0 1.5rem;
+}
+
+.help-box p:first-child strong {
+  font-size: 1.15rem;
+  color: var(--primary-color);
+}
+
+.help-box ul {
+  padding-left: 1.2em;
+}
+
+.help-box li {
+  margin-bottom: 0.4em;
+}
+
 /* Home info box */
 .first-entry {
   background-color: var(--bg-warm-secondary);

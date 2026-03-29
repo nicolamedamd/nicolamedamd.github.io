@@ -124,11 +124,14 @@ Ogni articolo del blog deve seguire questa struttura (in entrambe le lingue):
 ```markdown
 ---
 
-**Hai bisogno di aiuto?**
+**Hai bisogno di aiuto ora?**
 
-Se stai attraversando un momento difficile, non sei solo/a. Puoi contattare:
+Se sei in difficoltà, hai pensieri di suicidio, o sei sopravvissuta/o al suicidio di una persona cara, non sei sola, non sei solo. Puoi contattare:
 
-- **Telefono Amico**: 02 2327 2327
+- **Telefono Amico**: 02 2327 2327 — tutti i giorni dalle 9 alle 24
+- **Numero Verde Veneto**: 800 33 43 43 — 24 ore al giorno, 7 giorni su 7
+- **De Leo Fund ONLUS**: 800 168 678 — dal lunedì al venerdì, 9-13 e 15-19<br>
+  (in particolare per le persone che attraversano un lutto traumatico)
 
 In caso di emergenza, chiama il **112** o recati al Pronto Soccorso più vicino.
 ```
@@ -138,15 +141,16 @@ In caso di emergenza, chiama il **112** o recati al Pronto Soccorso più vicino.
 ```markdown
 ---
 
-**Need help?**
+**Do you need help now?**
 
-If you're going through a difficult time, you're not alone. You can reach out to:
+If you are struggling, have thoughts of suicide, or have survived the suicide of a loved one, you are not alone. You can reach out to:
 
-- **International Association for Suicide Prevention**: https://www.iasp.info/resources/Crisis_Centres/
-- **Crisis Text Line**: text HOME to 741741 (US) / text SHOUT to 85258 (UK)
-- **Befrienders Worldwide**: https://www.befrienders.org
+- **Telefono Amico**: 02 2327 2327 — every day from 9am to midnight
+- **Numero Verde Veneto**: 800 33 43 43 — 24 hours a day, 7 days a week
+- **De Leo Fund ONLUS**: 800 168 678 — Monday to Friday, 9am–1pm and 3pm–7pm<br>
+  (specifically for people experiencing a traumatic bereavement)
 
-If you are in immediate danger, please call your local emergency number.
+In case of emergency, call **112** or go to the nearest Emergency Department.
 ```
 
 > **IMPORTANTE**: Il box risorse va incluso in TUTTI gli articoli, non solo quelli sulla prevenzione del suicidio. Usare sempre la versione nella lingua dell'articolo.

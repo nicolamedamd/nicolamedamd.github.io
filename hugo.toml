@@ -34,12 +34,12 @@ buildFuture = false
       url = "/blog/"
       weight = 2
     [[languages.it.menu.main]]
-      name = "Chi Sono"
-      url = "/chi-sono/"
+      name = "Chi sono"
+      url = "/#chi-sono"
       weight = 3
     [[languages.it.menu.main]]
       name = "Contatti"
-      url = "/contatti/"
+      url = "/#contatti"
       weight = 4
 
   [languages.en]
@@ -61,12 +61,12 @@ buildFuture = false
       url = "/en/blog/"
       weight = 2
     [[languages.en.menu.main]]
-      name = "About Me"
-      url = "/en/chi-sono/"
+      name = "About me"
+      url = "/en/#about-me"
       weight = 3
     [[languages.en.menu.main]]
       name = "Contact"
-      url = "/en/contatti/"
+      url = "/en/#contact"
       weight = 4
 
 # ── Parametri del tema PaperMod ─────────────────────────
