@@ -31,7 +31,5 @@ Questo sito ha scopo informativo e divulgativo. Le informazioni qui contenute no
 Se stai attraversando un momento difficile, non sei solo/a. Puoi contattare:
 
 - **Telefono Amico**: 02 2327 2327
-- **Telefono Azzurro**: 19696
-- **Numero verde antisuicidio**: 800 86 00 22
 
 In caso di emergenza, chiama il **112** o recati al Pronto Soccorso più vicino.
