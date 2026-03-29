@@ -10,7 +10,7 @@ tags:
   - "litio"
   - "diagnosi"
   - "salute fisica"
-draft: true
+draft: false
 ---
 
 Il disturbo bipolare è una delle condizioni psichiatriche più fraintese. A differenza di quanto si possa pensare, non si tratta di semplici oscillazioni dell'umore, ma di un gruppo di disturbi cronici e complessi (disturbo bipolare di tipo I e il disturbo bipolare di tipo II) che possono ridurre la qualità e l'aspettativa di vita.

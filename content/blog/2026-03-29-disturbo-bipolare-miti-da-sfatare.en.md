@@ -10,7 +10,7 @@ tags:
   - "lithium"
   - "diagnosis"
   - "physical health"
-draft: true
+draft: false
 ---
 
 Bipolar disorder is one of the most misunderstood psychiatric conditions. Contrary to popular belief, it is not simply about mood swings — it is a group of chronic, complex disorders (bipolar I disorder and bipolar II disorder) that can reduce both quality of life and life expectancy.
