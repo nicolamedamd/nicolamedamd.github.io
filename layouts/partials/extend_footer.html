@@ -1,0 +1,48 @@
+<!-- Cookie Banner -->
+<div id="cookie-banner" style="display:none; position:fixed; bottom:0; left:0; right:0; z-index:9999; background-color:#2C2C2C; color:#F5F5F5; padding:1rem 1.5rem; box-shadow:0 -2px 10px rgba(0,0,0,0.2); font-size:0.9rem; line-height:1.5;">
+  <div style="max-width:900px; margin:0 auto; display:flex; flex-wrap:wrap; align-items:center; gap:1rem; justify-content:space-between;">
+    <p style="margin:0; flex:1; min-width:250px;">
+      {{ if eq .Site.Language.Lang "en" }}
+        This website uses technical cookies to ensure proper functionality. For more information, see our <a href="/en/cookie-policy/" style="color:#E0A96D; text-decoration:underline;">Cookie Policy</a>.
+      {{ else }}
+        Questo sito utilizza cookie tecnici per garantire il corretto funzionamento. Per maggiori informazioni, consulta la <a href="/cookie-policy/" style="color:#E0A96D; text-decoration:underline;">Cookie Policy</a>.
+      {{ end }}
+    </p>
+    <div style="display:flex; gap:0.5rem; flex-shrink:0;">
+      <button onclick="acceptCookies()" style="background-color:#B85C38; color:white; border:none; padding:0.5rem 1.2rem; border-radius:4px; cursor:pointer; font-size:0.9rem;">
+        {{ if eq .Site.Language.Lang "en" }}Accept{{ else }}Accetta{{ end }}
+      </button>
+      <button onclick="rejectCookies()" style="background-color:transparent; color:#F5F5F5; border:1px solid #888; padding:0.5rem 1.2rem; border-radius:4px; cursor:pointer; font-size:0.9rem;">
+        {{ if eq .Site.Language.Lang "en" }}Reject{{ else }}Rifiuta{{ end }}
+      </button>
+    </div>
+  </div>
+</div>
+
+<script>
+function acceptCookies() {
+  localStorage.setItem('cookie-consent', 'accepted');
+  document.getElementById('cookie-banner').style.display = 'none';
+}
+function rejectCookies() {
+  localStorage.setItem('cookie-consent', 'rejected');
+  document.getElementById('cookie-banner').style.display = 'none';
+}
+function showCookieBanner() {
+  document.getElementById('cookie-banner').style.display = 'block';
+}
+// Show banner if no preference stored
+if (!localStorage.getItem('cookie-consent')) {
+  document.getElementById('cookie-banner').style.display = 'block';
+}
+// Allow reopening from footer link
+document.addEventListener('DOMContentLoaded', function() {
+  var link = document.getElementById('manage-cookies-link');
+  if (link) {
+    link.addEventListener('click', function(e) {
+      e.preventDefault();
+      showCookieBanner();
+    });
+  }
+});
+</script>
