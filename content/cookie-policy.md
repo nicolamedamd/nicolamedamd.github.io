@@ -35,6 +35,11 @@ Questo sito utilizza iubenda Privacy Controls and Cookie Solution per la gestion
 **GitHub Pages (GitHub Inc.)**
 Il servizio di hosting può impostare cookie tecnici. Per maggiori informazioni: [Privacy Policy di GitHub](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement).
 
+## Servizi senza cookie
+
+**Cloudflare Web Analytics**
+Questo sito utilizza Cloudflare Web Analytics per l'analisi anonima del traffico. Questo servizio **non utilizza cookie**, non raccoglie dati personali e non traccia gli utenti tra siti diversi. Si segnala qui solo per trasparenza. Per maggiori informazioni: [Privacy Policy di Cloudflare](https://www.cloudflare.com/privacypolicy/).
+
 ## Come gestire i cookie
 
 L'utente può gestire le preferenze sui cookie tramite il banner visualizzato alla prima visita, oppure in qualsiasi momento cliccando su "Gestisci preferenze cookie" nel footer del sito.

@@ -31,6 +31,9 @@ This website is hosted on GitHub Pages, a service provided by GitHub Inc. (a Mic
 ### MioDottore booking widget (Docplanner)
 This website integrates a booking widget provided by Docplanner Italia S.r.l. (MioDottore), with registered office at Via Dogana 3, 20123 Milan, Italy. The widget may install its own cookies and collect personal data for booking management. For more information, please refer to [MioDottore's Privacy Policy](https://www.miodottore.it/privacy-policy).
 
+### Traffic analytics: Cloudflare Web Analytics
+This website uses Cloudflare Web Analytics, a traffic analytics service provided by Cloudflare, Inc. (101 Townsend St, San Francisco, CA 94107, USA). Cloudflare Web Analytics is a privacy-respecting service: it **does not use cookies**, **does not collect personally identifiable data**, and **does not track users across different websites**. Only aggregated and anonymous data about visits are collected (e.g. pages viewed, country of origin, device type, referrer) for statistical traffic analysis purposes. For more information: [Cloudflare Privacy Policy](https://www.cloudflare.com/privacypolicy/).
+
 ## Purposes of data processing
 
 Personal data are processed for the following purposes:

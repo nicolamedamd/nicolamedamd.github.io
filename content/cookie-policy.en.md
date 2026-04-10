@@ -35,6 +35,11 @@ This website uses iubenda Privacy Controls and Cookie Solution for cookie consen
 **GitHub Pages (GitHub Inc.)**
 The hosting service may set technical cookies. For more information: [GitHub Privacy Policy](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement).
 
+## Services without cookies
+
+**Cloudflare Web Analytics**
+This website uses Cloudflare Web Analytics for anonymous traffic analysis. This service **does not use cookies**, does not collect personal data, and does not track users across different websites. It is mentioned here for transparency only. For more information: [Cloudflare Privacy Policy](https://www.cloudflare.com/privacypolicy/).
+
 ## How to manage cookies
 
 You can manage your cookie preferences through the banner displayed on your first visit, or at any time by clicking "Manage cookie preferences" in the website footer.

@@ -31,6 +31,9 @@ Questo sito è ospitato su GitHub Pages, un servizio di GitHub Inc. (società di
 ### Widget di prenotazione MioDottore (Docplanner)
 Questo sito integra un widget di prenotazione fornito da Docplanner Italia S.r.l. (MioDottore), con sede legale in Via Dogana 3, 20123 Milano. Il widget può installare cookie propri e raccogliere dati personali per la gestione delle prenotazioni. Per maggiori informazioni, si rimanda alla [Privacy Policy di MioDottore](https://www.miodottore.it/privacy-policy).
 
+### Analisi del traffico: Cloudflare Web Analytics
+Questo sito utilizza Cloudflare Web Analytics, un servizio di analisi del traffico fornito da Cloudflare, Inc. (101 Townsend St, San Francisco, CA 94107, USA). Cloudflare Web Analytics è un servizio rispettoso della privacy: **non utilizza cookie**, **non raccoglie dati personali identificativi** e **non traccia gli utenti tra siti diversi**. Vengono raccolti esclusivamente dati aggregati e anonimi sulle visite (es. pagine viste, paese di provenienza, tipo di dispositivo, referrer) per finalità di analisi statistica del traffico. Per maggiori informazioni: [Privacy Policy di Cloudflare](https://www.cloudflare.com/privacypolicy/).
+
 ## Finalità del trattamento
 
 I dati personali sono trattati per le seguenti finalità:
